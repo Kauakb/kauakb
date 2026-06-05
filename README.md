@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
+  My name is Kaua, I am a Brazilian Student living in Ireland currently studying Computer Science & Progamming at CCT College Dublin interested in all things regarding tech specially how it works behind the scenes!!
+
+- 🔭 I’m currently working on personal applications and developing myself as a programmer
+- 🌱 I’m currently learning java and a little bit regarding AI
+- 💬 I’m looking to collaborate on any project that you have in mind, we can get better at it together.
+- 📫 How to reach me:
+    -    https://www.linkedin.com/in/kauakb/ or ka_barbosa@icloud.com
 
 <!--
 **Kauakb/kauakb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
