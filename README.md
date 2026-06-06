@@ -6,7 +6,7 @@
 - 🌱 At the moment I’m learning Java
 - 💬 I’m looking to collaborate on any project that you have in mind, we can get better at it together.
 - 📫 How to reach me:
-    -    https://www.linkedin.com/in/kauakb/ or ka_barbosa@icloud.com
+    -    [Here](https://www.linkedin.com/in/kauakb/) or ka_barbosa@icloud.com
 
 <div align="center">
 
