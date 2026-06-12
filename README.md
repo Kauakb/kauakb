@@ -14,6 +14,7 @@ I am currently studying Computer Science & Progamming at CCT College Dublin inte
 
 <div align="center">
 
+<!--
 ---
 ## *🧠Random Dev Quote🚀*
 ---
@@ -23,7 +24,7 @@ I am currently studying Computer Science & Progamming at CCT College Dublin inte
 > By Donald Knuth
 
 </div>
-
+-->
 <!--
 **Kauakb/kauakb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
