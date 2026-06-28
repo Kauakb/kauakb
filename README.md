@@ -10,10 +10,24 @@ I am currently studying Computer Science & Progamming at CCT College Dublin inte
 - 🔭 I’m currently working on personal applications and developing myself as programmer
 - 🌱 At the moment I’m learning a bit deeper regarding Java and Spring Boot, making some projects and Applications.
 - 💬 I’m looking to collaborate on any project that you have in mind, we can get better together.
-- I am a travel lover and also someone who likes sports.✈️⚽️🥋
+
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kauakb/)
 
+##
 <div align="center">
+   <h1 align="center">
+       About me
+   </h1>
+</div>
+
+###
+<div>
+- I am Brazilian who has been living in Ireland for a couple years who always dreamed to go to college abroad when younger and Ireland had given me the opportunity to make it happens.
+    <p></p>
+- I am a travel lover and also someone who likes sports.✈️⚽️🥋
+</div>
+
+
 
 <!--
 ---
