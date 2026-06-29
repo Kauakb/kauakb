@@ -1,9 +1,9 @@
 <h1 align="center">
-    Hi There👋, I am Kaua
+    Hi There, I am Kaua👋
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+To+My+Pofile;Brazilian+Developer+in+Ireland;" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+To+My+Profile;Brazilian+Developer+in+Ireland;" />
 </p>
 I am currently studying Computer Science & Progamming at CCT College Dublin interested in all things regarding tech specially how it works behind the scenes!!
 
@@ -11,12 +11,13 @@ I am currently studying Computer Science & Progamming at CCT College Dublin inte
 - 🌱 At the moment I’m learning a bit deeper regarding Java and Spring Boot, making some projects and Applications.
 - 💬 I’m looking to collaborate on any project that you have in mind, we can get better together.
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kauakb/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kauakb/) or
+<a href="mailto:ka_barbosa@icloud.com">Email</a>
 
 ##
 <div align="center">
    <h1 align="center">
-       About me
+       About me👤
    </h1>
 </div>
 
