@@ -11,7 +11,8 @@ I am currently studying Computer Science & Progamming at CCT College Dublin inte
 - 🌱 At the moment I’m learning a bit deeper regarding Java and Spring Boot, making some projects and Applications.
 - 💬 I’m looking to collaborate on any project that you have in mind, we can get better together.
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kauakb/) or
+- 📫 How to reach me:
+<a href="https://www.linkedin.com/in/kauakb/">Linkedin</a> or
 <a href="mailto:ka_barbosa@icloud.com">Email</a>
 
 ##
