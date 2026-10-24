@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi There, I am Kaua👋
+    Hi Welcome, I am Kaua👋
 </h1>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 I am currently studying Computer Science & Progamming at CCT College Dublin interested in all things regarding tech specially how it works behind the scenes!!
 
-- 🔭 I’m currently working on personal applications and developing myself as programmer
-- 🌱 At the moment I’m learning a bit deeper regarding Java and Spring Boot, making some projects and Applications.
+- 🔭 I’m currently working on personal applications and developing myself as a Software Engineer
+- 🌱 At the moment I’m learning a bit deeper regarding Java, Python and some frameworks, working on some Projects and Applications.
 - 💬 I’m looking to collaborate on any project that you have in mind, we can get better together.
 
 - 📫 How to reach me:
