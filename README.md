@@ -11,10 +11,6 @@ I am currently studying Computer Science & Progamming at CCT College Dublin inte
 - 🌱 At the moment I’m learning a bit deeper regarding Java, Python and some frameworks, working on some Projects and Applications.
 - 💬 I’m looking to collaborate on any project that you have in mind, we can get better together.
 
-- 📫 How to reach me:
-<a href="https://www.linkedin.com/in/kauakb/">Linkedin</a> or
-<a href="mailto:ka_barbosa@icloud.com">Email</a>
-
 ##
 <div align="center">
    <h1 align="center">
@@ -22,26 +18,18 @@ I am currently studying Computer Science & Progamming at CCT College Dublin inte
    </h1>
 </div>
 
-###
-<div>
-- I am Brazilian who has been living in Ireland for a couple years who always dreamed to go to college abroad when younger and Ireland had given me the opportunity to make it happens.
+
+ - 🎓 BSc (Hons) Computer Science at CCT College Dublin, graduating November 2027
     <p></p>
-- I am a travel lover and also someone who likes sports.✈️⚽️🥋
-</div>
+ - 🔧 Interested in Software Engineering roles such as Internship and Graduates Program.
+
+
+- 📫 How to reach me:
+<a href="https://www.linkedin.com/in/kauakb/">Linkedin</a> or
+<a href="mailto:ka_barbosa@icloud.com">Email</a>
 
 
 
-<!--
----
-## *🧠Random Dev Quote🚀*
----
-
-> “Science is what we understand well enough to explain to a computer.  
-> Art is everything else we do.”
-> By Donald Knuth
-
-</div>
--->
 <!--
 **Kauakb/kauakb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
